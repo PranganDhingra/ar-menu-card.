@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "expo": "^53.0.20"
+  },
+  "name": "ar-menu-card",
+  "description": "Solution Code for PRO-C173",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
